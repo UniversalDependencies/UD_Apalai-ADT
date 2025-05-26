@@ -13,7 +13,11 @@ Grant Information: This project has received funding from the European Research 
 
 ## References
 
-* (citation)
+Koehn, E. H., & Koehn, S. S. (Comps.). (1986). *Ritonõpo Omiry: Apalaí Ne Apalaí New Testament*. Wycliffe Bible Translators. Printed with permission by the Digital Bible Society.
+
+Koehn, E. H. (2009). *Apalaí phrase structure: A preliminary analysis* (Preliminary ed.). Associação Internacional de Linguística, SIL – Brasil. (Original work created 1966)
+
+Koehn, E. H., & Koehn, S. S. (Comps.). (1995). *Apalaí dictionary* (Primeira edição). Sociedade Internacional de Lingüística.
 
 
 # Changelog
